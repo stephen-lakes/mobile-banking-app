@@ -8,10 +8,10 @@ Mobile bank is a bank application coded in React. The database used is json-serv
 
 
 ## Screenshots
-![picture alt](public/picture1.png)
+![picture alt](public/Picture1.png)
 
 
-![picture alt](public/picture2.png)
+![picture alt](public/Picture2.png)
 
 
 
